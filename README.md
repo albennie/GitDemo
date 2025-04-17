@@ -1,9 +1,9 @@
 # GitDemo
 a **demo** app for `git` project.
-
+jus a chang
 ## Git keywords
-* push
-* pull
+* push and pull
+* stach
 * status
 * checkout
 * ...
